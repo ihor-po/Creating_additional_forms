@@ -1,0 +1,11 @@
+\\Mac\iCloud\Step\WinForms\DZ3\task1\NoModalForm_us_SearchFile\bin\Debug\NoModalForm_us_SearchFile.exe.config
+\\Mac\iCloud\Step\WinForms\DZ3\task1\NoModalForm_us_SearchFile\bin\Debug\NoModalForm_us_SearchFile.exe
+\\Mac\iCloud\Step\WinForms\DZ3\task1\NoModalForm_us_SearchFile\bin\Debug\NoModalForm_us_SearchFile.pdb
+\\Mac\iCloud\Step\WinForms\DZ3\task1\NoModalForm_us_SearchFile\obj\Debug\NoModalForm_us_SearchFile.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\Step\WinForms\DZ3\task1\NoModalForm_us_SearchFile\obj\Debug\NoModalForm_us_SearchFile.MainForm.resources
+\\Mac\iCloud\Step\WinForms\DZ3\task1\NoModalForm_us_SearchFile\obj\Debug\NoModalForm_us_SearchFile.Properties.Resources.resources
+\\Mac\iCloud\Step\WinForms\DZ3\task1\NoModalForm_us_SearchFile\obj\Debug\NoModalForm_us_SearchFile.csproj.GenerateResource.Cache
+\\Mac\iCloud\Step\WinForms\DZ3\task1\NoModalForm_us_SearchFile\obj\Debug\NoModalForm_us_SearchFile.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\Step\WinForms\DZ3\task1\NoModalForm_us_SearchFile\obj\Debug\NoModalForm_us_SearchFile.exe
+\\Mac\iCloud\Step\WinForms\DZ3\task1\NoModalForm_us_SearchFile\obj\Debug\NoModalForm_us_SearchFile.pdb
+\\Mac\iCloud\Step\WinForms\DZ3\task1\NoModalForm_us_SearchFile\obj\Debug\NoModalForm_us_SearchFile.SearchForm.resources
