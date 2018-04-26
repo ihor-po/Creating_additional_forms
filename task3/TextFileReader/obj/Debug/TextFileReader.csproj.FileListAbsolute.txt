@@ -1,0 +1,11 @@
+\\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task3\TextFileReader\bin\Debug\TextFileReader.exe.config
+\\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task3\TextFileReader\bin\Debug\TextFileReader.exe
+\\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task3\TextFileReader\bin\Debug\TextFileReader.pdb
+\\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task3\TextFileReader\obj\Debug\TextFileReader.csprojResolveAssemblyReference.cache
+\\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task3\TextFileReader\obj\Debug\TextFileReader.tfr_form.resources
+\\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task3\TextFileReader\obj\Debug\TextFileReader.Properties.Resources.resources
+\\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task3\TextFileReader\obj\Debug\TextFileReader.csproj.GenerateResource.Cache
+\\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task3\TextFileReader\obj\Debug\TextFileReader.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task3\TextFileReader\obj\Debug\TextFileReader.exe
+\\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task3\TextFileReader\obj\Debug\TextFileReader.pdb
+\\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task3\TextFileReader\obj\Debug\TextFileReader.EditForm.resources
