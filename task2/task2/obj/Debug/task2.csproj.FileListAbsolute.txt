@@ -8,3 +8,4 @@
 \\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
 \\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task2\task2\obj\Debug\task2.exe
 \\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task2\task2\obj\Debug\task2.pdb
+\\Mac\iCloud\Step\WinForms\3CreateAditionalForms\task2\task2\obj\Debug\task2.CEdit.resources

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace task2
 {
-    class Component
+    public class Component
     {
         public string Title { get; set; }
 

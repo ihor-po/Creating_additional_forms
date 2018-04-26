@@ -41,6 +41,8 @@
             this.of_lb_selectedComp = new System.Windows.Forms.ListBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.of_l_totalPrice = new System.Windows.Forms.Label();
+            this.of_b_createComp = new System.Windows.Forms.Button();
+            this.of_b_close = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -162,7 +164,7 @@
             this.groupBox1.Controls.Add(this.of_l_totalPrice);
             this.groupBox1.Location = new System.Drawing.Point(604, 4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(226, 238);
+            this.groupBox1.Size = new System.Drawing.Size(226, 183);
             this.groupBox1.TabIndex = 12;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Общая стоимость";
@@ -174,12 +176,32 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.of_l_totalPrice.AutoSize = true;
             this.of_l_totalPrice.Font = new System.Drawing.Font("Calibri", 28F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.of_l_totalPrice.Location = new System.Drawing.Point(65, 99);
+            this.of_l_totalPrice.Location = new System.Drawing.Point(60, 75);
             this.of_l_totalPrice.Name = "of_l_totalPrice";
             this.of_l_totalPrice.Size = new System.Drawing.Size(86, 46);
             this.of_l_totalPrice.TabIndex = 0;
             this.of_l_totalPrice.Text = "0,00";
             this.of_l_totalPrice.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // of_b_createComp
+            // 
+            this.of_b_createComp.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.of_b_createComp.Location = new System.Drawing.Point(604, 193);
+            this.of_b_createComp.Name = "of_b_createComp";
+            this.of_b_createComp.Size = new System.Drawing.Size(113, 48);
+            this.of_b_createComp.TabIndex = 13;
+            this.of_b_createComp.Text = "Создать компонент";
+            this.of_b_createComp.UseVisualStyleBackColor = true;
+            // 
+            // of_b_close
+            // 
+            this.of_b_close.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.of_b_close.Location = new System.Drawing.Point(717, 193);
+            this.of_b_close.Name = "of_b_close";
+            this.of_b_close.Size = new System.Drawing.Size(113, 48);
+            this.of_b_close.TabIndex = 14;
+            this.of_b_close.Text = "Закрыть";
+            this.of_b_close.UseVisualStyleBackColor = true;
             // 
             // OrderForm
             // 
@@ -187,6 +209,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
             this.ClientSize = new System.Drawing.Size(843, 252);
+            this.ControlBox = false;
+            this.Controls.Add(this.of_b_close);
+            this.Controls.Add(this.of_b_createComp);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.of_lb_selectedComp);
             this.Controls.Add(this.of_b_edit);
@@ -201,7 +226,7 @@
             this.Controls.Add(this.of_cb_components);
             this.Font = new System.Drawing.Font("Calibri", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "OrderForm";
@@ -230,6 +255,8 @@
         private System.Windows.Forms.ListBox of_lb_selectedComp;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label of_l_totalPrice;
+        private System.Windows.Forms.Button of_b_createComp;
+        private System.Windows.Forms.Button of_b_close;
     }
 }
 
